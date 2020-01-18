@@ -1,0 +1,11 @@
+# netlify.yamanoku.net
+
+redirect tools use GitHub & Netlify
+https://docs.netlify.com/routing/redirects/
+
+## Use It
+
+- https://github.yamanoku.net
+
+## Ref
+https://github.com/laiso/blog.lai.so
