@@ -6,6 +6,7 @@ https://docs.netlify.com/routing/redirects/
 ## Use It
 
 - https://github.yamanoku.net
+- https://note.yamanoku.net
 
 ## Ref
 https://github.com/laiso/blog.lai.so
