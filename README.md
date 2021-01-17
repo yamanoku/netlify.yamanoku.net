@@ -7,6 +7,8 @@ https://docs.netlify.com/routing/redirects/
 
 - https://github.yamanoku.net
 - https://note.yamanoku.net
+- https://wishlist.yamanoku.net
+
 
 ## Ref
 https://github.com/laiso/blog.lai.so
