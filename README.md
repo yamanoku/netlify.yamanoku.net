@@ -9,6 +9,7 @@ https://docs.netlify.com/routing/redirects/
 - https://note.yamanoku.net
 - https://wishlist.yamanoku.net
 - https://scrapbox.yamanoku.net
+- https://notion.yamanoku.net/
 
 
 ## Ref
