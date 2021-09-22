@@ -10,6 +10,7 @@ https://docs.netlify.com/routing/redirects/
 - https://wishlist.yamanoku.net
 - https://scrapbox.yamanoku.net
 - https://notion.yamanoku.net/
+- https://facebook.yamanoku.net
 
 
 ## Ref
