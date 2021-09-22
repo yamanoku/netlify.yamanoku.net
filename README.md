@@ -11,6 +11,7 @@ https://docs.netlify.com/routing/redirects/
 - https://scrapbox.yamanoku.net
 - https://notion.yamanoku.net/
 - https://facebook.yamanoku.net
+- https://twitter.yamanoku.net
 
 
 ## Ref
